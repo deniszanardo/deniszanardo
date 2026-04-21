@@ -1,40 +1,45 @@
 # Olá, eu sou o Denis Ferreira 👋
 
-### Especialista em Automação Industrial & Desenvolvedor Python (IA & Cloud)
+### Especialista em PCP & Suprimentos | Desenvolvedor de Soluções IA e Automação
 
-Integro o "chão de fábrica" à inteligência de dados. Com formação sólida pelo **SENAI**, uno a experiência técnica em elétrica industrial e CLPs ao desenvolvimento de soluções modernas utilizando **Python, IA e Cloud Computing**.
-
----
-
-### 🚀 Projeto em Destaque
-**Agente Inteligente de Vendas (Fábrica de Alimentos)**
-- **O que faz:** Automação de recebimento de pedidos via WhatsApp, processamento de dados e integração com planilhas.
-- **Stack:** Python, OpenAI API, servindo em Oracle Cloud (Ampere Server) e integração com OpenClaw.
+Estrategista com **12 anos de experiência na gestão de operações, PCP e Suprimentos**, gerenciando portfólios complexos com mais de 220 SKUs e grandes volumes de compras (~500 ton/ano). Atualmente, integro minha sólida base em gestão e **análise de dados (MBA USP / FGV)** à tecnologia de ponta (**IA, Cloud e Automação Industrial**).
 
 ---
 
-### 🎓 Formação Técnica (SENAI)
+### 🚀 Projeto em Destaque: Agente Inteligente de Supply Chain
+Desenvolvimento de um agente autônomo baseado em **OpenAI** hospedado em **Oracle Cloud (Ampere)**. 
+- **Objetivo:** Automação total do ciclo de pedidos via WhatsApp, integrando inteligência artificial ao fluxo de estoque e planejamento de produção (PCP).
 
-- **Python & Engenharia de Software (80h):** SENAI Guarulhos.
-- **Montagem de Painéis Elétricos (140h):** SENAI Vila Maria (Rua São Jorge).
-- **Comandos Elétricos (160h):** SENAI Vila Maria (Rua São Jorge).
-- **Programação Ladder / CLP (40h):** SENAI Vila Alpina (Foco em CLPs WEG).
+---
 
-### 🛠️ Hard Skills
+### 🛠️ Expertise Técnica & Ferramentas
 
-- **Desenvolvimento:** Python, OpenAI API, Processamento de Linguagem Natural (NLP).
-- **Cloud & Servidores:** Oracle Cloud Infrastructure (OCI), Ampere Servers, Linux.
-- **Automação & Elétrica:** Programação Ladder (Master Tools/Clique Edit WEG), CADe SIMU, Montagem de Painéis e Comandos Industriais.
-- **Versionamento:** Git & GitHub.
+#### 📊 Inteligência de Dados & Gestão
+- **Análise & BI:** Modelagem de dados, Dashboards em Power BI, Power Query e Excel Avançado/VBA.
+- **Estatística:** Análise multivariada, modelos econométricos e regressão (Certificado pelo Inst. de Economia Agrícola).
+- **Competências:** Curva ABC, Forecast de demanda, Nível de Serviço e Giro de Estoque.
+
+#### 🤖 Desenvolvimento & Automação
+- **Programação:** Python (Foco em IA e Data Science), SQL e Automação de APIs.
+- **Automação Industrial (SENAI):** Programação Ladder (CLP WEG), CADe SIMU e Montagem de Painéis Elétricos.
+- **Ambiente:** Servidores Linux, Oracle Cloud Infrastructure (OCI) e Git.
+
+---
+
+### 🎓 Formação Acadêmica
+- **MBA em Agronegócio** – USP/ESALQ
+- **Pós-graduação em Administração de Empresas** – FGV/EBAPE
+- **Bacharel em Administração** – Universidade São Judas Tadeu
+- **Formação Técnica:** Python (80h), Comandos Elétricos (160h) e Montador de Painéis (140h) – SENAI.
 
 ---
 
 ### 📈 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[SEU_USER_AQUI]&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=deniszanardo&show_icons=true&theme=radical)
 
-### 📫 Contato
-- **LinkedIn:** [Denis Zanardo](https://linkedin.com/in/deniszanardo)
-- **Email:** deniszanardo@gmail.com 
 
+### 📫 Conecte-se comigo
+- **LinkedIn:** [Denis Zanardo](https://www.linkedin.com/in/deniszanardo)
+- **Email:** [deniszanardo@gmail.com](mailto:deniszanardo@gmail.com)
 ---
-*"Conectando a potência da infraestrutura elétrica à inteligência do software."*
+*"Otimizando cadeias produtivas através da união entre Tecnologia da Informação (TI) e Tecnologia Operacional (TO)."*
