@@ -21,8 +21,10 @@ Atualmente estou focado em dominar a stack de Python, explorando desde a lógica
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=[deniszanardo]&layout=compact&theme=radical)
 
 ### 📫 Como me encontrar
-- **LinkedIn:**(https://linkedin.com/in/deniszanardo)
-- **Email:** [deniszanardo@gmail.com(mailto:deniszanardo@gmail.com)
+- **LinkedIn:**
+- https://linkedin.com/in/deniszanardo
+  **Email:**
+  [deniszanardo@gmail.com
 
 ---
 "WORK HARD PLAY HARD"
