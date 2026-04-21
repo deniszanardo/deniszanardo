@@ -17,7 +17,7 @@ Atualmente estou focado em dominar a stack de Python, explorando desde a lógica
 - **Software:** Testes unitários e Documentação técnica
 
 ### 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[deniszanardo]&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=deniszanardo&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=[deniszanardo]&layout=compact&theme=radical)
 
 ### 📫 Como me encontrar
