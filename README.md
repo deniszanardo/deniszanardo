@@ -1,8 +1,8 @@
-# Olá, eu sou o Denis Ferreira 👋
+# Olá, eu sou o Denis Zanardo 👋
 
 ### Especialista em PCP & Suprimentos | Desenvolvedor de Soluções IA e Automação
 
-Estrategista com **12 anos de experiência na gestão de operações, PCP e Suprimentos**, gerenciando portfólios complexos com mais de 220 SKUs e grandes volumes de compras (~500 ton/ano). Atualmente, integro minha sólida base em gestão e **análise de dados (MBA USP / FGV)** à tecnologia de ponta (**IA, Cloud e Automação Industrial**).
+Analista estratégico com **12 anos de experiência na gestão de operações, PCP e Suprimentos**, gerenciando portfólios complexos com mais de 220 SKUs e grandes volumes de compras (~500 ton/ano). Atualmente, integro minha sólida base em gestão e **análise de dados (MBA USP / FGV)** à tecnologia de ponta (**IA, Cloud e Automação Industrial**).
 
 ---
 
@@ -43,3 +43,5 @@ Desenvolvimento de um agente autônomo baseado em **OpenAI** hospedado em **Orac
 - **Email:** [deniszanardo@gmail.com](mailto:deniszanardo@gmail.com)
 ---
 *"Otimizando cadeias produtivas através da união entre Tecnologia da Informação (TI) e Tecnologia Operacional (TO)."*
+         
+         *" WORK HARD PLAY HARD"*
