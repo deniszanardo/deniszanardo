@@ -1,8 +1,8 @@
-# Olá, eu sou o Denis Zanardo 👋
+# Olá, eu sou o Denis Ferreira 👋
 
 ### Especialista em Automação Industrial & Desenvolvedor Python (IA & Cloud)
 
-Integro o "chão de fábrica" à inteligência de dados. Com formação pelo **SENAI**, uno a experiência técnica em elétrica industrial e CLPs ao desenvolvimento de soluções modernas utilizando **Python, IA e Cloud Computing**.
+Integro o "chão de fábrica" à inteligência de dados. Com formação sólida pelo **SENAI**, uno a experiência técnica em elétrica industrial e CLPs ao desenvolvimento de soluções modernas utilizando **Python, IA e Cloud Computing**.
 
 ---
 
@@ -30,11 +30,11 @@ Integro o "chão de fábrica" à inteligência de dados. Com formação pelo **S
 ---
 
 ### 📈 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=deniszanardo&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[SEU_USER_AQUI]&show_icons=true&theme=radical)
 
 ### 📫 Contato
 - **LinkedIn:** [Denis Zanardo](https://linkedin.com/in/deniszanardo)
-
+- **Email:** deniszanardo@gmail.com 
 
 ---
 *"Conectando a potência da infraestrutura elétrica à inteligência do software."*
