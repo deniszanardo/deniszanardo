@@ -41,6 +41,7 @@ Desenvolvimento de um agente autônomo baseado em **OpenAI** hospedado em **Orac
 ### 📫 Conecte-se comigo
 - **LinkedIn:** [Denis Zanardo](https://www.linkedin.com/in/deniszanardo)
 - **Email:** [deniszanardo@gmail.com](mailto:deniszanardo@gmail.com)
+- **Git Hub:**  https://github.com/deniszanardo
 ---
 *"Otimizando cadeias produtivas através da união entre Tecnologia da Informação (TI) e Tecnologia Operacional (TO)."*
          
